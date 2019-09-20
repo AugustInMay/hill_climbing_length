@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ega3.dir/main.cpp.o  -o ega3 
